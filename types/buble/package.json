@@ -6,7 +6,7 @@
         "https://github.com/bublejs/buble"
     ],
     "dependencies": {
-        "magic-string": "^0.25.0"
+        "magic-string": "^0.30.17"
     },
     "devDependencies": {
         "@types/buble": "workspace:."
