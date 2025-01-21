@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/node": "*",
         "joi": "^17.3.0",
-        "mongoose": "~6.3"
+        "mongoose": "~6.13.6"
     },
     "devDependencies": {
         "@types/joigoose": "workspace:."
