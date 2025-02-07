@@ -8,7 +8,7 @@
     "dependencies": {
         "@storybook/addons": "^6.5.9",
         "@storybook/csf": "0.0.2--canary.4566f4d.1",
-        "@storybook/react": "^6.5.9",
+        "@storybook/react": "^7.0.0",
         "@types/react": "*"
     },
     "devDependencies": {
