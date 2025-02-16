@@ -2,7 +2,7 @@
     "private": true,
     "type": "module",
     "devDependencies": {
-        "@octokit/core": "^3.5.1",
+        "@octokit/core": "^6.1.4",
         "@types/d3-array": "^3.0.0",
         "@types/d3-axis": "^3.0.0",
         "@types/d3-scale": "^4.0.0",
