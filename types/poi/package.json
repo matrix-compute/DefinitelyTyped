@@ -10,7 +10,7 @@
         "@types/html-webpack-plugin": "*",
         "@types/node": "*",
         "@types/webpack": "^4",
-        "@types/webpack-dev-server": "3",
+        "@types/webpack-dev-server": "4.7.0",
         "cac": "~6.4.2",
         "webpack-chain": "^5.2.4"
     },
