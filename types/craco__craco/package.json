@@ -13,7 +13,7 @@
         "@types/express": "*",
         "@types/node": "*",
         "@types/webpack": "^4",
-        "@types/webpack-dev-server": "^3.11.6"
+        "@types/webpack-dev-server": "^4.7.0"
     },
     "devDependencies": {
         "@types/craco__craco": "workspace:."
