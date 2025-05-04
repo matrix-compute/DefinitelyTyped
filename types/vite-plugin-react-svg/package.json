@@ -9,7 +9,7 @@
         "@types/node": "*",
         "@types/react": "*",
         "@types/svgo": "2",
-        "vite": "^2.3.8"
+        "vite": "^4.5.14"
     },
     "devDependencies": {
         "@types/vite-plugin-react-svg": "workspace:."
