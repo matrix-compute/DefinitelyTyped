@@ -6,7 +6,7 @@
         "https://github.com/AndersonMamede/electron-progressbar"
     ],
     "dependencies": {
-        "electron": "^10.1.4"
+        "electron": "^36.3.0"
     },
     "devDependencies": {
         "@types/electron-progressbar": "workspace:."
