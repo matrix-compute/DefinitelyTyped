@@ -9,7 +9,7 @@
     ],
     "dependencies": {
         "@types/xelib": "*",
-        "electron": "^10.1.2",
+        "electron": "^36.3.0",
         "fs-jetpack": "^3.1.0"
     },
     "devDependencies": {
