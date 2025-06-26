@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/react": "*",
         "glaze": ">=0.5.1",
-        "treat": "^1.2.4"
+        "treat": "^2.0.4"
     },
     "devDependencies": {
         "@types/babel-plugin-glaze": "workspace:."
