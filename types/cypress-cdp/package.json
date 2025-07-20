@@ -6,7 +6,7 @@
         "https://github.com/bahmutov/cypress-cdp#readme"
     ],
     "dependencies": {
-        "cypress": "9.7.0",
+        "cypress": "13.0.0",
         "devtools-protocol": "0.0.1173815"
     },
     "devDependencies": {
