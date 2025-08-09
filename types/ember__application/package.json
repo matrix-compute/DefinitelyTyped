@@ -8,7 +8,7 @@
         "https://emberjs.com/api/ember/4.0/modules/@ember%2Fapplication"
     ],
     "dependencies": {
-        "@glimmer/component": "^1.1.0",
+        "@glimmer/component": "^2.0.0",
         "@types/ember": "*",
         "@types/ember__engine": "*",
         "@types/ember__object": "*",
