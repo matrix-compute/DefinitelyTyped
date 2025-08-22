@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/markdown-it": "*",
         "@types/node": "*",
-        "markdownlint": "^0.30.0"
+        "markdownlint": "^0.38.0"
     },
     "devDependencies": {
         "@types/markdownlint-rule-helpers": "workspace:."
