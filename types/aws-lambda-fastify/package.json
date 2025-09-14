@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/aws-lambda": "*",
         "@types/node": "*",
-        "fastify": "^3.14.2"
+        "fastify": "^4.0.0"
     },
     "devDependencies": {
         "@types/aws-lambda-fastify": "workspace:."
