@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/express": "*",
-        "swagger-parser": "^7.0.1"
+        "swagger-parser": "^9.0.0"
     },
     "devDependencies": {
         "@types/swagger-express-middleware": "workspace:."
