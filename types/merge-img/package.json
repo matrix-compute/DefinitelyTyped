@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/node": "*",
-        "jimp": "^0.9.5"
+        "jimp": "^1.0.2"
     },
     "devDependencies": {
         "@types/merge-img": "workspace:."
