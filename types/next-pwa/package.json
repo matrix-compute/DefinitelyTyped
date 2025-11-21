@@ -11,7 +11,7 @@
         "@types/react": "*",
         "@types/react-dom": "*",
         "next": "^12.2.5 || ^13.0.0",
-        "workbox-build": "^6.5.4"
+        "workbox-build": "^7.4.0"
     },
     "devDependencies": {
         "@types/next-pwa": "workspace:."
