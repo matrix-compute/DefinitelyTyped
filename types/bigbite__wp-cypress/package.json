@@ -6,7 +6,7 @@
         "https://github.com/bigbite/wp-cypress#readme"
     ],
     "dependencies": {
-        "cypress": "^12.3.0"
+        "cypress": "^13.0.0"
     },
     "devDependencies": {
         "@types/bigbite__wp-cypress": "workspace:."
