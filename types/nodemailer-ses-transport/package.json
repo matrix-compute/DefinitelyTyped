@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/aws-sdk2-types": "*",
-        "@types/nodemailer": "^3"
+        "@types/nodemailer": "^4.1.0"
     },
     "devDependencies": {
         "@types/nodemailer-ses-transport": "workspace:."
