@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/node": "*",
-        "@types/nodemailer": "^3"
+        "@types/nodemailer": "^4.1.0"
     },
     "devDependencies": {
         "@types/nodemailer-smtp-pool": "workspace:."
