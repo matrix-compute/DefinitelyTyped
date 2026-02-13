@@ -6,7 +6,7 @@
         "https://github.com/bahmutov/cypress-dark#readme"
     ],
     "dependencies": {
-        "cypress": "8.5.0"
+        "cypress": "13.0.0"
     },
     "devDependencies": {
         "@types/cypress-dark": "workspace:.",
